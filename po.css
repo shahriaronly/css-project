@@ -1,0 +1,136 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.full{
+
+    
+}
+#block{
+        
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    height: 75px;
+    display: inline-block;
+    color: white;
+    background: #268f9491;
+    border: 1px solid;
+    border-color: #5a2a22;
+    font-size: 17px;
+}
+#block:hover{
+           background: #37394461; 
+           transform: scale(0.9);
+           transition: 0.8s;
+           color: white;
+           
+}
+.full-conten{
+    text-align: center;
+    background: black;
+    margin-bottom: 80px;
+    
+}
+#hub{
+
+      margin: 5px;
+    
+
+}
+#it{
+    color: tomato;
+}
+#our{
+    color: white;
+    font-size: 50px;
+    
+    
+}
+#tomato{
+    color: tomato;
+}
+#too{
+    color: tomato;
+}
+
+.contant{
+    float: right;
+    margin-top: 40px;
+    font-size: 20px;
+}
+#about{
+       
+    text-align: center;
+
+}
+.right img{
+
+    width: 450px;
+    height: 300px;
+    border: 1px solid;
+    margin-left: 30px;
+    margin-top: 30px;
+    box-shadow: 4px 1px 5px 2px;
+
+}
+#sp{
+    color: tomato;
+}
+#about h1{
+    margin: 20px 20px;
+    font-size: 40px;    
+}
+.right{
+    width: 450px;
+    float: left;
+}
+.right left{
+    display: inline;
+}
+.left{
+
+        float: right;
+        width: 800px;
+        font-size: 25px;
+        margin: 30px 20px;
+
+
+}
+.right left{
+    display: inline;
+}
+nav{
+
+    text-align: right;
+    font-size: 20px;
+    font-display: inline block;
+    
+    background: rgb(199, 203, 204);
+}
+ul{
+    list-style: none;
+    display: inline-flex;
+
+}
+
+ul li a{
+        text-decoration: none;
+        padding: 20px;
+        color: black;
+        font-size: 30px;
+        margin-right: 40px;
+        
+
+}
+ul li a:hover{
+
+    background: rgb(50, 174, 190);
+    color:white
+}
+nav ul li a{
+    display: inline-block;
+    
+
+}
